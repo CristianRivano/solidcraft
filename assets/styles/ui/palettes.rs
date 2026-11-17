@@ -155,7 +155,7 @@ impl Tokens {
         t.dialog_border = Color32::from_rgb(125, 63, 70);
         t.chip = Color32::from_rgb(201, 134, 59);
         t.heading_bg = Color32::from_rgb(59, 20, 26);
-        t.subheading_bg = Color32::from_rgb(100, 43, 53);
+        t.subheading_bg = Color32::from_rgb(75, 28, 36);
         t.section_cap = Color32::from_rgb(201, 134, 59);
         t.profile_fill = Color32::from_rgba_unmultiplied_const(229, 168, 83, 42);
         t.glyph_bg = Color32::from_rgb(69, 24, 32);
